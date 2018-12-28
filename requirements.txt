@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # packages in environment at /home/caspian/Documents/programming/websites/sibtc_tuts/sibenv:
 #
 # Name                    Version                   Build  Channel
@@ -24,3 +25,12 @@ tk                        8.5.18                        0
 wheel                     0.32.3                   py36_0  
 xz                        5.2.4                h14c3975_4  
 zlib                      1.2.11               h7b6447c_3  
+=======
+dj-database-url==0.4.2
+Django==1.11.15
+django-widget-tweaks==1.4.1
+Markdown==2.6.9
+python-decouple==3.1
+
+bootstrap-v4.0
+>>>>>>> 05505116e51ec2a2339c048a6abd00ccac098ccd
